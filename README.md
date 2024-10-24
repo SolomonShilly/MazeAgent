@@ -18,4 +18,4 @@ The maze is represented as a 2D list:
 ## Usage
 
 1. Clone the repository
-2. Run the `maze_solver.py` file
+2. Run the `mazeagent.py` file

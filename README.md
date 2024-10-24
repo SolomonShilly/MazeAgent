@@ -19,30 +19,3 @@ The maze is represented as a 2D list:
 
 1. Clone the repository
 2. Run the `maze_solver.py` file
-3. Input either `bfs` or `dfs` to choose the algorithm
-
-## Example Maze
-
-BFS found a path in 0.00024 seconds
-S #           #     
-. #   # # #   #     
-. #       #         
-.     #     # # #   
-. # # #   #     #   
-.         #   # #   
-. # # #         #   
-. . . # # # #   #   
-  # . . . . #   #   
-      # # . . . . G 
-DFS found a path in 0.00013 seconds
-S #           #     
-. #   # # #   #     
-. # . . . #         
-. . . # .   # # #   
-  # # # . #     #   
-. . . . . #   # #   
-. # # #         #   
-. . . # # # #   #   
-  # . . . . #   #   
-      # # . . . . G 
-DFS is faster.
